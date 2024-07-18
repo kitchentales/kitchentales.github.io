@@ -1,1 +1,1 @@
-# kitchentales-.github.io
+# kitchentales.github.io
