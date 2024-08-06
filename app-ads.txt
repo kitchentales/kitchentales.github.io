@@ -1474,6 +1474,9 @@ smaato.com, 1100047589, RESELLER, 07bcf65f187117b4
 inmobi.com, ba5fd3fb82c5412989b23c3eec71baf7, RESELLER, 83e75a7ae333ca9d
 yeahmobi.com, 114490, RESELLER
 zmaticoo.com, 114490, RESELLER
+adingo.jp, 31054, RESELLER
+singularads, 548745, RESELLER
+yieldmo.com, 3591550211052216798, RESELLER, 6a92c77cfc3d2258
 
 #pungle
 pangleglobal.com, 5006549, DIRECT
